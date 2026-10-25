@@ -1,0 +1,6 @@
+How to use:
+1. Go into thingthis.py's source code.
+2. You'll need to make a Discord webhook for this by the way. When you make that, paste the url
+in line 4.
+3. Also, to customize the text it says when the file opens, the text is in line 9.
+[The lines that involve your pc username is line 7 and 9]
